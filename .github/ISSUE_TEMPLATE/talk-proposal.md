@@ -3,7 +3,7 @@ name: Talk proposal
 about: Use this to propose a talk for a meetup
 title: ''
 labels: talk proposal
-assignees: ''
+assignees: tusharsadhwani, srijan-paul
 
 ---
 
