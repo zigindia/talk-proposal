@@ -4,7 +4,7 @@ To propose a talk for a future meetup, **open an issue** on this repository.
 Feel free to propose a talk even if there is no scheduled meetup.
 We'll go over the proposals before each meetup and select the ones that best fit the schedule.
 
-Everyone welcome to comment on the proposals for feedback, or to express interest.
+Everyone is welcome to comment on the proposals for feedback, or to express interest.
 
 ## Guidelines
 
