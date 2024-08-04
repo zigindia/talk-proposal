@@ -1,4 +1,4 @@
-# Proposals
+# Talk Proposals
 
 To propose a talk for a future meetup, **open an issue** on this repository.
 Feel free to propose a talk even if there is no scheduled meetup.
